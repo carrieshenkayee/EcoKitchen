@@ -5,7 +5,6 @@ An innovative application dedicated to tackling the critical issue of food waste
 
 ## Deployment: 👉 https://ecokitchen.netlify.app/
 
-  ![plot](./Eco1.png)
   ![plot](./Eco3.png)
   ![plot](./Eco2.png)
 

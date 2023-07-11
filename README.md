@@ -1,6 +1,6 @@
-#🚀 𝑶𝒏𝒆 𝑴𝒐𝒏𝒕𝒉 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 @ 𝑺𝒄𝒉𝒐𝒐𝒍 𝑶𝒇 𝑪𝒐𝒅𝒆 🚀#
+#🚀 𝑶𝒏𝒆 𝑴𝒐𝒏𝒕𝒉 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 @ 𝑺𝒄𝒉𝒐𝒐𝒍 𝑶𝒇 𝑪𝒐𝒅𝒆 🚀
 
-##🥘 Ｅｃｏ Ｋｉｔｃｈｅｎ 🥗## 
+##🥘 Ｅｃｏ Ｋｉｔｃｈｅｎ 🥗
 An innovative application dedicated to tackling the critical issue of food waste. In a country where millions of tons of food are discarded annually from households, Eco Kitchen empowers individuals to make a difference by improving food consimption, reduce waste and save money. Say goodbye to staring at expired items in your pantry and say hello to a more sustainable approach to managing your groceries!
 
 ##Deployment: 👉 https://ecokitchen.netlify.app/

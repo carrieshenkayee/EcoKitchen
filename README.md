@@ -5,17 +5,22 @@ An innovative application dedicated to tackling the critical issue of food waste
 
 ## Deployment: 👉 https://ecokitchen.netlify.app/
 
-This MVP offers the following key features...
+This MVP offers the following key features
 
-## 📝 Shopping List: Effortlessly create and manage your shopping list to ensure you buy only what you need, reducing unnecessary purchases and waste.
+## 📝 Shopping List: 
+Effortlessly create and manage your shopping list to ensure you buy only what you need, reducing unnecessary purchases and waste.
 
-## 🍽️ Virtual Kitchen with Expiry Dates: Keep track of all your food items by storing them in your virtual kitchen with expiry dates. Say goodbye to wasted ingredients and hello to efficient meal planning.
+## 🍽️ Virtual Kitchen with Expiry Dates: 
+Keep track of all your food items by storing them in your virtual kitchen with expiry dates. Say goodbye to wasted ingredients and hello to efficient meal planning.
 
-## 🔍 Recipe Search: Discover delicious recipes based on the ingredients you have in your virtual kitchen. Maximize the use of your existing supplies and create exciting meals.
+## 🔍 Recipe Search: 
+Discover delicious recipes based on the ingredients you have in your virtual kitchen. Maximize the use of your existing supplies and create exciting meals.
 
-## 🤝 Food Donation Search: Find nearby food donation centers or organizations where you can contribute excess food items, helping those in need and reducing food waste simultaneously.
+## 🤝 Food Donation Search: 
+Find nearby food donation centers or organizations where you can contribute excess food items, helping those in need and reducing food waste simultaneously.
 
-## 💰 Cost Breakdown: Gain insights into your food consumption habits with a detailed cost breakdown. Visualize the types of food you waste the most and the associated financial impact, empowering you to make informed decisions.
+## 💰 Cost Breakdown: 
+Gain insights into your food consumption habits with a detailed cost breakdown. Visualize the types of food you waste the most and the associated financial impact, empowering you to make informed decisions.
 
 🥑 🍞 🍚 🍎 🍖 🍤
 

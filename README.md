@@ -5,10 +5,13 @@ An innovative application dedicated to tackling the critical issue of food waste
 
 ## Deployment: 👉 https://ecokitchen.netlify.app/
 
+
+https://github.com/carrieshenkayee/EcoKitchen/assets/116494312/0fc28ba4-6b29-45a0-a1c0-cef2e33d25e8
+
+
   ![plot](./Eco3.png)
   ![plot](./Eco2.png)
 
-https://github.com/carrieshenkayee/EcoKitchen/assets/116494312/9ce2dc14-a540-4f92-b9c5-7f30c3b6a230
 
 This MVP offers the following key features...
 

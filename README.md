@@ -8,6 +8,8 @@ An innovative application dedicated to tackling the critical issue of food waste
   ![plot](./Eco3.png)
   ![plot](./Eco2.png)
 
+https://github.com/carrieshenkayee/EcoKitchen/assets/116494312/9ce2dc14-a540-4f92-b9c5-7f30c3b6a230
+
 This MVP offers the following key features...
 
 ## 📝 Shopping List: 
